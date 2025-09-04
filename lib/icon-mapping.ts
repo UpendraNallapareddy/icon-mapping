@@ -24,7 +24,7 @@ export const iconMapping = {
   ArrowCircleRightOutlined: "ArrowRight",
   AddCircleOutline: "PlusCircle",
   RemoveCircleOutline: "MinusCircle",
-  CancelOutlined: "X",
+  CancelOutlined: "XCircle",
 
   // Interface elements
   MoreVert: "MoreVertical",
@@ -38,8 +38,8 @@ export const iconMapping = {
   TextFields: "Type",
   FolderOutlined: "Folder",
   ImageOutlined: "Image",
-  ChatBubble: "MessageCircle",
-  ChatBubbleOutline: "MessageCircle",
+  ChatBubble: "MessageSquare",
+  ChatBubbleOutline: "MessageSquare",
   FormatListBulleted: "List",
 
   // Settings and controls
@@ -62,5 +62,5 @@ export const iconMapping = {
   HomeOutlined: "Home",
 
   // Special cases
-  HdrAutoOutlined: "Radio",
+  HdrAutoOutlined: "CircleA",
 };
